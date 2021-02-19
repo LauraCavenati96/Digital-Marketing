@@ -1,0 +1,22 @@
+sessionInfo()
+
+
+R version 3.6.3 (2020-02-29)
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+Running under: Windows >= 8 x64 (build 9200)
+
+Matrix products: default
+
+locale:
+[1] LC_COLLATE=Italian_Italy.1252  LC_CTYPE=Italian_Italy.1252    LC_MONETARY=Italian_Italy.1252
+[4] LC_NUMERIC=C                   LC_TIME=Italian_Italy.1252    
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+loaded via a namespace (and not attached):
+ [1] rstudioapi_0.11  magrittr_1.5     tidyselect_1.1.0 munsell_0.5.0    colorspace_1.4-1 lattice_0.20-38 
+ [7] R6_2.4.1         rlang_0.4.7      fansi_0.4.1      dplyr_1.0.1      tools_3.6.3      grid_3.6.3      
+[13] gtable_0.3.0     cli_2.0.2        ellipsis_0.3.1   yaml_2.2.1       assertthat_0.2.1 tibble_3.0.3    
+[19] lifecycle_0.2.0  crayon_1.3.4     Matrix_1.2-18    purrr_0.3.4      ggplot2_3.3.2    vctrs_0.3.2     
+[25] glue_1.4.1       compiler_3.6.3   pillar_1.4.6     generics_0.0.2   scales_1.1.1     pkgconfig_2.0.3 
